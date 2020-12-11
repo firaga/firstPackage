@@ -13,7 +13,7 @@
     "php": ">=5.6"
   },
   "minimum-stability": "stable",
-  "version": "3.0.1-aa",
+  "version": "3.0.1-alpha",
   "autoload": {
     "psr-4": {
       "App\\": "src/App"
